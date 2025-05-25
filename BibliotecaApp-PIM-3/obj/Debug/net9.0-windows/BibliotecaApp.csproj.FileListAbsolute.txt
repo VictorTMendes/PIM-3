@@ -1,0 +1,58 @@
+D:\download\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.exe
+D:\download\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.deps.json
+D:\download\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.runtimeconfig.json
+D:\download\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.pdb
+D:\download\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfoInputs.cache
+D:\download\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfo.cs
+D:\download\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.csproj.CoreCompileInputs.cache
+D:\download\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9\obj\Debug\net9.0-windows\refint\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.pdb
+D:\download\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.genruntimeconfig.cache
+D:\download\BibliotecaApp_NET9\obj\Debug\net9.0-windows\ref\BibliotecaApp.dll
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.exe
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.deps.json
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.dll
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.pdb
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.dll
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\obj\Debug\net9.0-windows\refint\BibliotecaApp.dll
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.pdb
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\BibliotecaApp_NET9\obj\Debug\net9.0-windows\ref\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.exe
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.deps.json
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.runtimeconfig.json
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\bin\Debug\net9.0-windows\BibliotecaApp.pdb
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfoInputs.cache
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfo.cs
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.csproj.CoreCompileInputs.cache
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.sourcelink.json
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\refint\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.pdb
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\BibliotecaApp.genruntimeconfig.cache
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp_NET9\obj\Debug\net9.0-windows\ref\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\bin\Debug\net9.0-windows\BibliotecaApp.exe
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\bin\Debug\net9.0-windows\BibliotecaApp.deps.json
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\bin\Debug\net9.0-windows\BibliotecaApp.runtimeconfig.json
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\bin\Debug\net9.0-windows\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\bin\Debug\net9.0-windows\BibliotecaApp.pdb
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\BibliotecaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfoInputs.cache
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfo.cs
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\BibliotecaApp.csproj.CoreCompileInputs.cache
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\BibliotecaApp.sourcelink.json
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\refint\BibliotecaApp.dll
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\BibliotecaApp.pdb
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\BibliotecaApp.genruntimeconfig.cache
+D:\download\BibliotecaApp_NET9 (1)\BibliotecaApp-PIM-3\obj\Debug\net9.0-windows\ref\BibliotecaApp.dll
